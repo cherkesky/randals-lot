@@ -63,6 +63,26 @@ namespace RandallsCarLot
 
         vehicles.Add(sale2);
 
+        foreach (Dictionary<string, Dictionary<string,string>> item in vehicles)
+        {
+            foreach (KeyValuePair<string, Dictionary<string, string>> kvp in item){
+                Console.Write($@"
+                    Sales Info :
+                    ^^^^^^^^^^^^
+                   {kvp.Key}
+                   
+                   "
+                   );
+
+                 foreach(KeyValuePair<string,string> kvp2 in kvp.Value)
+                 {
+                    Console.WriteLine($@"
+                    {kvp2.Key}: {kvp2.Value}
+                    ");
+                 }
+            }
+        }
+
 
        }
     }

@@ -1,0 +1,12 @@
+/Users/cherkesky/workspace/csharp/randal-lot/bin/Debug/netcoreapp3.1/randal-lot.deps.json
+/Users/cherkesky/workspace/csharp/randal-lot/bin/Debug/netcoreapp3.1/randal-lot.runtimeconfig.json
+/Users/cherkesky/workspace/csharp/randal-lot/bin/Debug/netcoreapp3.1/randal-lot.runtimeconfig.dev.json
+/Users/cherkesky/workspace/csharp/randal-lot/bin/Debug/netcoreapp3.1/randal-lot.dll
+/Users/cherkesky/workspace/csharp/randal-lot/bin/Debug/netcoreapp3.1/randal-lot.pdb
+/Users/cherkesky/workspace/csharp/randal-lot/obj/Debug/netcoreapp3.1/randal-lot.csprojAssemblyReference.cache
+/Users/cherkesky/workspace/csharp/randal-lot/obj/Debug/netcoreapp3.1/randal-lot.csproj.CoreCompileInputs.cache
+/Users/cherkesky/workspace/csharp/randal-lot/obj/Debug/netcoreapp3.1/randal-lot.AssemblyInfoInputs.cache
+/Users/cherkesky/workspace/csharp/randal-lot/obj/Debug/netcoreapp3.1/randal-lot.AssemblyInfo.cs
+/Users/cherkesky/workspace/csharp/randal-lot/obj/Debug/netcoreapp3.1/randal-lot.dll
+/Users/cherkesky/workspace/csharp/randal-lot/obj/Debug/netcoreapp3.1/randal-lot.pdb
+/Users/cherkesky/workspace/csharp/randal-lot/obj/Debug/netcoreapp3.1/randal-lot.genruntimeconfig.cache
